@@ -22,13 +22,13 @@ Before installation, make sure you have the following:
 
 ---
 
-## 📦 Required Frameworks & Installation (If You Want)
+## 📦 Required Frameworks & Installation
 
 1. **Clone or download this repository.**
 
 2. **Open a terminal inside the project folder.**
 
-3. **Create and activate a virtual environment:**
+3. **Create and activate a virtual environment: (If You Want)**
 
    ```bash
    python -m venv venv
@@ -38,9 +38,9 @@ Before installation, make sure you have the following:
 ---
 
 ## Install All Dependencies
-
-**pip install -r requirements.txt**
-
+```
+pip install -r requirements.txt**
+```
 ---
 
 ## ▶️ Execution Steps
@@ -58,3 +58,4 @@ streamlit run main.py
 
 
 ---
+
