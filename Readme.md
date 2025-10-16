@@ -9,7 +9,6 @@ The system is designed with **Streamlit** for an intuitive web-based interface a
 ## 🖥️ OS Support
 - ✅ Windows 10/11  
 - ✅ Linux (Ubuntu / Debian-based)  
-- ✅ macOS (I'm not that rich)
 
 ---
 
@@ -23,7 +22,7 @@ Before installation, make sure you have the following:
 
 ---
 
-## 📦 Required Frameworks & Installation
+## 📦 Required Frameworks & Installation (If You Want)
 
 1. **Clone or download this repository.**
 
@@ -55,6 +54,7 @@ streamlit run main.py
 ## 📬 Contact Information
 1. **Developer: Shaik Rahamtulla**
 2. **EMail: rahamtullawork@gmail.com**
-**If you face any issues or errors, please mail me directly for support.**
+3. **If you face any issues or errors, please mail me directly for support.**
+
 
 ---
